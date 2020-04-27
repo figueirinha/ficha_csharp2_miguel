@@ -1,0 +1,9 @@
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\bin\Debug\netcoreapp3.1\Extras.deps.json
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\bin\Debug\netcoreapp3.1\Extras.dll
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\bin\Debug\netcoreapp3.1\Extras.pdb
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\obj\Debug\netcoreapp3.1\Extras.csprojAssemblyReference.cache
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\obj\Debug\netcoreapp3.1\Extras.csproj.CoreCompileInputs.cache
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\obj\Debug\netcoreapp3.1\Extras.AssemblyInfoInputs.cache
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\obj\Debug\netcoreapp3.1\Extras.AssemblyInfo.cs
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\obj\Debug\netcoreapp3.1\Extras.dll
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Extras\obj\Debug\netcoreapp3.1\Extras.pdb

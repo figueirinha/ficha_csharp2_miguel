@@ -1,0 +1,17 @@
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\bin\Debug\netcoreapp3.1\Answers.deps.json
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\bin\Debug\netcoreapp3.1\Answers.dll
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\bin\Debug\netcoreapp3.1\Answers.pdb
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.csprojAssemblyReference.cache
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.csproj.CoreCompileInputs.cache
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.AssemblyInfoInputs.cache
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.AssemblyInfo.cs
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.dll
+D:\Recodme\Testes\Teste 4\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.pdb
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\bin\Debug\netcoreapp3.1\Answers.deps.json
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\bin\Debug\netcoreapp3.1\Answers.dll
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\bin\Debug\netcoreapp3.1\Answers.pdb
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.csprojAssemblyReference.cache
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.AssemblyInfoInputs.cache
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.AssemblyInfo.cs
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.dll
+C:\Users\Miguel Figueirinha\Desktop\Enunciado\Teste4\Answers\obj\Debug\netcoreapp3.1\Answers.pdb
